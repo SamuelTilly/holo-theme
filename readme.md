@@ -6,6 +6,7 @@ Many editor themes are simply remakes of [tomorrow-theme](https://github.com/chr
 ## Suported Editors
 
 * Sublime Text 2 (Uses TextMate Themes)
+* Vim (Full-colour and 256-colour)
 
 ## Colors
 
@@ -21,6 +22,3 @@ Many editor themes are simply remakes of [tomorrow-theme](https://github.com/chr
 `#33B5E5` Aqua  
 `#0099CC` Blue  
 `#9933CC` Purple
-
-
-
