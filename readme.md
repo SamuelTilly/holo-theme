@@ -5,6 +5,7 @@ Many editor themes are simply remakes of [tomorrow-theme](https://github.com/chr
 
 ## Suported Editors
 
+* TextMate
 * Sublime Text 2 (Uses TextMate Themes)
 * Vim (Full-colour and 256-colour)
 
