@@ -4,8 +4,8 @@ Color theme based on [android theme holo](http://developer.android.com/design/st
 Many editor themes are simply remakes of [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme)
 
 Goes well together with Holo inspired GTK themes
-by tiheum - [Holo](http://tiheum.deviantart.com/#/d4mr0s4)
-by tgraeca84 - [reNIX](http://gnome-look.org/content/show.php?content=153312)
+* by tiheum - [Holo](http://tiheum.deviantart.com/#/d4mr0s4)
+* by tgraeca84 - [reNIX](http://gnome-look.org/content/show.php?content=153312)
 
 ## Suported Editors
 
