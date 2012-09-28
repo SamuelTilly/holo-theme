@@ -9,7 +9,9 @@ by tgraeca84 - [reNIX](http://gnome-look.org/content/show.php?content=153312)
 
 ## Suported Editors
 
+* TextMate
 * Sublime Text 2 (Uses TextMate Themes)
+* Vim (Full-colour and 256-colour)
 
 ## Colors
 
@@ -25,6 +27,3 @@ by tgraeca84 - [reNIX](http://gnome-look.org/content/show.php?content=153312)
 `#33B5E5` Aqua  
 `#0099CC` Blue  
 `#9933CC` Purple
-
-
-
